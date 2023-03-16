@@ -1,2 +1,2 @@
-# YOLOv8-football
-YOLOv8-football
+# How to Detect Football Players and Ball in Real-Time using YOLOv8: A Computer Tutorial
+

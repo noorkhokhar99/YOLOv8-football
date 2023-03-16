@@ -44,3 +44,6 @@ yolo task=detect mode=predict model=yolov8s-football.pt conf=0.25 imgsz=1280 lin
 
 
 If you find my videos useful,  I would love your support on Pyresearch: https://youtu.be/_eSArKZBWmE
+
+
+download weight from here: https://drive.google.com/drive/folders/1AqfV35JcWXoxOOpAv8O_9wF57xmXbZVZ?usp=share_link
